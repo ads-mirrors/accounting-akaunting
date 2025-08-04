@@ -24,3 +24,4 @@
 *.scss linguist-vendored
 *.js linguist-vendored
 CHANGELOG.md export-ignore
+.github/ merge=ours
